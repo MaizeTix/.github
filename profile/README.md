@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/88870095-e30c-4885-bc5e-df34ad5d4ba9" width="480">
+<a href="https://maizetix.com"><img src="https://github.com/user-attachments/assets/c2612aa1-67d7-41bd-bbbe-656800789653" width="480"></a>
 
 # Welcome to MaizeTix! 〽️〽️〽️
 
